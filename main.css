@@ -20,6 +20,7 @@ body {
 }
 
 .card{
+
     border: 3px solid #000;
     width: 350px;
     background-color: rgba(99, 58, 195, 0.41);
