@@ -1,3 +1,7 @@
+:root{
+  --my_color: red;
+}
+
 *, *::after, *::before{
     box-sizing: border-box;
     scroll-behavior: smooth;
@@ -36,6 +40,11 @@ body {
     font-size: 24px;
     margin: 10px 0;
     text-align: center;
+
+}
+
+.card-title a{
+  color: var(--my_color);
 }
 
 .card-text{
