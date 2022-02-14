@@ -18,3 +18,28 @@ body {
     margin: auto;
     position: relative;
 }
+
+.card{
+    border: 3px solid #000;
+    width: 350px;
+    background-color: rgba(99, 58, 195, 0.41);
+}
+
+.card-image img{
+    display: block;
+    max-width: 350px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-title{
+    font-size: 24px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.card-text{
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+}
