@@ -18,3 +18,8 @@ body {
     margin: auto;
     position: relative;
 }
+
+.card{
+  width: 200px;
+  margin: auto;
+}
